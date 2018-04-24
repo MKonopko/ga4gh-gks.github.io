@@ -12,7 +12,9 @@ category:
 
 ### Team Members
 
-* Melissa Konopko
-* Larry Babb
+* Larry Babb ([ClinGen](https://www.clinicalgenome.org/about/people/staff/larry-babb/))
 * Michael Baudis ([UZH](http://www.imls.uzh.ch/en/research/baudis/) & [SIB](https://www.sib.swiss/baudis-michael/))
+* Andy Yates ([EBI](https://www.ebi.ac.uk/about/people/andy-yates))
+* Bob Friemuth ([Mayo Clinic](http://www.mayo.edu/research/faculty/freimuth-robert-r-ph-d/bio-00027248))
+* Melissa Konopko
 * ...
